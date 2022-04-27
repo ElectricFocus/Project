@@ -10,7 +10,7 @@
 #### Stretch Requirements (Nice to have, but not MVP)
 
 1. Multiplayer options
-2. Difficulity options
+2. Difficulty options
 
 ### Goals
 
